@@ -1,0 +1,15 @@
+{
+    "description": "This file will hold the configurations so that the code base does not need to be touched.",
+    "filesToRun" : [
+        "Apex-Data.cls",
+        "Apex-Metadata.cls"
+    ],
+    "foldersToArchive" : [],
+    "deploymentNameToRun": "Name of deployment to be run...",
+    "runDeploymentViaWebhook": true,
+    "enableCreateZipArchive": true,
+    "enableDeployZipFile": false,
+    "enableFirstScriptRun": true,
+    "enableIterateFiles": true
+  }
+  
