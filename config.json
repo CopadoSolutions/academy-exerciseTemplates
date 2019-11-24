@@ -7,7 +7,7 @@
     "foldersToArchive" : [],
     "deploymentNameToRun": "Name of deployment to be run...",
     "runDeploymentViaWebhook": true,
-    "enableCreateZipArchive": true,
+    "enableCreateZipArchive": false,
     "enableDeployZipFile": false,
     "enableFirstScriptRun": true,
     "enableIterateFiles": true
